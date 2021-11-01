@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductInformation>
+    <BasicInfo>
+        <ProductName>Thirium</ProductName>
+        <ProductDescription>Open-source untethered jailbreak for arm64e, 14.4-14.5.1</ProductDescription>
+        <RepositoryInfo>
+            <RepositoryType>Git</RepositoryType>
+            <RepositoryUrl>https://github.com/c0repwn3r/ThiriumJB</RepositoryUrl>
+        </RepositoryInfo>
+        <UpdateUrl>https://raw.githubusercontent.com/c0repwn3r/ThiriumJB/master/ThiriumJB.xml</UpdateUrl>
+    </BasicInfo>
+    <ProductVersionInfo>
+        <Version>
+            <SemVer>1.0.0</SemVer>
+            <Changelog>Add ThiriumJB.xml</Changelog>
+            <BinaryUrl>nil</BinaryUrl>
+        </Version>
+    </ProductVersionInfo>
+</ProductInformation>
